@@ -1,0 +1,13 @@
+C:\Users\ashis\source\repos\Github\BGService\BGService\BGService\bin\Debug\netstandard2.0\BGService.deps.json
+C:\Users\ashis\source\repos\Github\BGService\BGService\BGService\bin\Debug\netstandard2.0\BGService.dll
+C:\Users\ashis\source\repos\Github\BGService\BGService\BGService\bin\Debug\netstandard2.0\ref\BGService.dll
+C:\Users\ashis\source\repos\Github\BGService\BGService\BGService\bin\Debug\netstandard2.0\BGService.pdb
+C:\Users\ashis\source\repos\Github\BGService\BGService\BGService\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ashis\source\repos\Github\BGService\BGService\BGService\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ashis\source\repos\Github\BGService\BGService\BGService\obj\Debug\netstandard2.0\BGService.AssemblyInfoInputs.cache
+C:\Users\ashis\source\repos\Github\BGService\BGService\BGService\obj\Debug\netstandard2.0\BGService.AssemblyInfo.cs
+C:\Users\ashis\source\repos\Github\BGService\BGService\BGService\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ashis\source\repos\Github\BGService\BGService\BGService\obj\Debug\netstandard2.0\BGService.dll
+C:\Users\ashis\source\repos\Github\BGService\BGService\BGService\obj\Debug\netstandard2.0\ref\BGService.dll
+C:\Users\ashis\source\repos\Github\BGService\BGService\BGService\obj\Debug\netstandard2.0\BGService.pdb
+C:\Users\ashis\source\repos\Github\BGService\BGService\BGService\obj\Debug\netstandard2.0\BGService.csprojAssemblyReference.cache
