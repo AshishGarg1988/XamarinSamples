@@ -1,0 +1,13 @@
+C:\Users\ashis\source\repos\Github\LocationService\LocationService\LocationService\bin\Debug\netstandard2.0\LocationService.deps.json
+C:\Users\ashis\source\repos\Github\LocationService\LocationService\LocationService\bin\Debug\netstandard2.0\LocationService.dll
+C:\Users\ashis\source\repos\Github\LocationService\LocationService\LocationService\bin\Debug\netstandard2.0\ref\LocationService.dll
+C:\Users\ashis\source\repos\Github\LocationService\LocationService\LocationService\bin\Debug\netstandard2.0\LocationService.pdb
+C:\Users\ashis\source\repos\Github\LocationService\LocationService\LocationService\obj\Debug\netstandard2.0\LocationService.csprojAssemblyReference.cache
+C:\Users\ashis\source\repos\Github\LocationService\LocationService\LocationService\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ashis\source\repos\Github\LocationService\LocationService\LocationService\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ashis\source\repos\Github\LocationService\LocationService\LocationService\obj\Debug\netstandard2.0\LocationService.AssemblyInfoInputs.cache
+C:\Users\ashis\source\repos\Github\LocationService\LocationService\LocationService\obj\Debug\netstandard2.0\LocationService.AssemblyInfo.cs
+C:\Users\ashis\source\repos\Github\LocationService\LocationService\LocationService\obj\Debug\netstandard2.0\LocationService.dll
+C:\Users\ashis\source\repos\Github\LocationService\LocationService\LocationService\obj\Debug\netstandard2.0\ref\LocationService.dll
+C:\Users\ashis\source\repos\Github\LocationService\LocationService\LocationService\obj\Debug\netstandard2.0\LocationService.pdb
+C:\Users\ashis\source\repos\Github\LocationService\LocationService\LocationService\obj\Debug\netstandard2.0\XamlC.stamp
