@@ -1,0 +1,13 @@
+C:\Users\ashis\source\repos\Github\ForeGroundService\ForeGroundService\ForeGroundService\bin\Debug\netstandard2.0\ForeGroundService.deps.json
+C:\Users\ashis\source\repos\Github\ForeGroundService\ForeGroundService\ForeGroundService\bin\Debug\netstandard2.0\ForeGroundService.dll
+C:\Users\ashis\source\repos\Github\ForeGroundService\ForeGroundService\ForeGroundService\bin\Debug\netstandard2.0\ref\ForeGroundService.dll
+C:\Users\ashis\source\repos\Github\ForeGroundService\ForeGroundService\ForeGroundService\bin\Debug\netstandard2.0\ForeGroundService.pdb
+C:\Users\ashis\source\repos\Github\ForeGroundService\ForeGroundService\ForeGroundService\obj\Debug\netstandard2.0\ForeGroundService.csprojAssemblyReference.cache
+C:\Users\ashis\source\repos\Github\ForeGroundService\ForeGroundService\ForeGroundService\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ashis\source\repos\Github\ForeGroundService\ForeGroundService\ForeGroundService\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ashis\source\repos\Github\ForeGroundService\ForeGroundService\ForeGroundService\obj\Debug\netstandard2.0\ForeGroundService.AssemblyInfoInputs.cache
+C:\Users\ashis\source\repos\Github\ForeGroundService\ForeGroundService\ForeGroundService\obj\Debug\netstandard2.0\ForeGroundService.AssemblyInfo.cs
+C:\Users\ashis\source\repos\Github\ForeGroundService\ForeGroundService\ForeGroundService\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ashis\source\repos\Github\ForeGroundService\ForeGroundService\ForeGroundService\obj\Debug\netstandard2.0\ForeGroundService.dll
+C:\Users\ashis\source\repos\Github\ForeGroundService\ForeGroundService\ForeGroundService\obj\Debug\netstandard2.0\ref\ForeGroundService.dll
+C:\Users\ashis\source\repos\Github\ForeGroundService\ForeGroundService\ForeGroundService\obj\Debug\netstandard2.0\ForeGroundService.pdb
